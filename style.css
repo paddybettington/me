@@ -1,0 +1,106 @@
+body{
+background-color:#DBD9D0
+}
+
+h1{
+font-size:60px;
+color:#F2974D;
+font-family: 'EB Garamond', serif;
+text-align:left;
+margin-left:8%;
+}
+
+h2{
+font-size:200%;
+color:#4C6268;
+font-family: 'EB Garamond', serif;
+text-align:left;
+padding-left: 40px;
+}
+
+p {
+font-size:50%;
+color:#4C6268;
+font-family: 'EB Garamond', serif;
+text-align:left;
+padding-left: 4%;
+
+}
+
+p.big{
+font-size:200%;
+color:#4C6268;
+font-family: 'EB Garamond', serif;
+text-align:left;
+padding-left: 40px;
+}
+
+ul {
+font-size:50%;
+color:#4C6268;
+font-family: 'EB Garamond', serif;
+text-align:left;
+padding-left:15%;
+}
+
+blockquote {
+display: block;
+font-family: 'EB Garamond', serif;
+color:#77AD78;
+}
+
+q {
+font-family: 'EB Garamond', serif;
+color:#F2AA3E;
+}
+
+#right {
+    float: left;
+    width: auto;
+    min-width:10%;
+}
+
+#content {
+    min-width: 300px;
+    max-width:850px;
+    padding-right:30px;
+    }
+
+
+.icon {
+   fill: #F2974D;
+   ;
+   
+}
+
+.iconinside {
+   fill: #DBD9D0;
+  
+}
+.icon:hover {
+  fill: #96E8BC;
+}
+
+a:link {
+    color: #F2AA3E; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #F2AA3E;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #96E8BC;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
